@@ -1,0 +1,14 @@
+{
+    "builtin": "False",
+    "default_enabled": "True",
+    "type": "extension",
+    "rocket_mode_compatible": "False",
+    "name": "PyRevitPlus",
+    "description": "Extensions for PyRevit",
+    "author": "Gui Talarico",
+    "author_profile": "https://github.com/yali93",
+    "url": "https://github.com/yali93/Pyrev_Ext.git",
+    "website": "https://github.com/gtalarico/pyrevitplus",
+    "image": "",
+    "dependencies": []
+}
